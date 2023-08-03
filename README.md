@@ -68,4 +68,5 @@ To run the script in the terminal -
 
 ```
 $ python3 ./client_example.py
+The current user IS is 1723982340897
 ```
